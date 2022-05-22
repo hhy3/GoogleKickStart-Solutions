@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/hy/cp/GoogleKickStart/src/2022/RoundC'
+rm -rf [A-Za-z]
+make: Leaving directory '/home/hy/cp/GoogleKickStart/src/2022/RoundC'
+ 
